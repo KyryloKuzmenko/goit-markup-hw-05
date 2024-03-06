@@ -530,6 +530,7 @@ img {
   letter-spacing: 0.04em;
   color: #ffffff;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
 }
 .subscribe-button:hover,
 .subscribe-button:focus {
@@ -633,11 +634,6 @@ img {
 .form-textarea:focus {
   border-color: #4d5ae5;
 }
-
-/* .is-open {
-  opacity: 1;
-  visibility: visible;
-}  */
 
 .form-lable {
   display: block;
